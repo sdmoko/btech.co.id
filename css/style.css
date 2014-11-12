@@ -651,68 +651,68 @@ aside.clients img {
     margin: 50px auto;
 }
 
-section#kontak {
+section#contact {
     background-color: #222;
     background-image: url(../img/map-image.png);
     background-position: center;
     background-repeat: no-repeat;
 }
 
-section#kontak .section-heading {
+section#contact .section-heading {
     color: #fff;
 }
 
-section#kontak .form-group {
+section#contact .form-group {
     margin-bottom: 25px;
 }
 
-section#kontak .form-group input,
-section#kontak .form-group textarea {
+section#contact .form-group input,
+section#contact .form-group textarea {
     padding: 20px;
 }
 
-section#kontak .form-group input.form-control {
+section#contact .form-group input.form-control {
     height: auto;
 }
 
-section#kontak .form-group textarea.form-control {
+section#contact .form-group textarea.form-control {
     height: 236px;
 }
 
-section#kontak .form-control:focus {
+section#contact .form-control:focus {
     border-color: #90c000;
     box-shadow: none;
 }
 
-section#kontak::-webkit-input-placeholder {
+section#contact::-webkit-input-placeholder {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     color: #bbb;
 }
 
-section#kontak:-moz-placeholder {
+section#contact:-moz-placeholder {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     color: #bbb;
 }
 
-section#kontak::-moz-placeholder {
+section#contact::-moz-placeholder {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     color: #bbb;
 }
 
-section#kontak:-ms-input-placeholder {
+section#contact:-ms-input-placeholder {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     color: #bbb;
 }
 
-section#kontak .text-danger {
+section#contact .text-danger {
     color: #e74c3c;
 }
 
@@ -861,7 +861,7 @@ body {
     webkit-tap-highlight-color: #90c000;
 }
 
-#alamat {
+#address {
     color: #fff;
     font-family: "Droid Serif","Helvetica Neue", Helvetica, Arial, sans-serif
 }
