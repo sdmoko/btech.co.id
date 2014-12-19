@@ -865,3 +865,14 @@ body {
     color: #fff;
     font-family: "Droid Serif","Helvetica Neue", Helvetica, Arial, sans-serif
 }
+
+#abouts {
+  color: #000;
+  font-family: "Droid Serif","Helvetica Neue", Helvetica, Arial, sans-serif
+}
+
+.content_container
+{ width: 320px;
+  padding: 5px;
+  margin-right: 10px;
+  float: left;}
